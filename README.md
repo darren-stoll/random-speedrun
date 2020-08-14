@@ -1,3 +1,7 @@
+This is a project that I use for returning a random video game speedrun record, using speedrun.com's API.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
